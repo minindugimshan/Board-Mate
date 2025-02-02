@@ -1,12 +1,12 @@
-import { Container } from '@mui/material'
-import SignUpForm from '../components/auth/SignUpForm'
+// import { Container } from '@mui/material'
+// import SignUpForm from '../components/auth/SignUpForm'
 
-function SignUpPage() {
-  return (
-    <Container maxWidth="sm">
-      <SignUpForm />
-    </Container>
-  )
-}
+// function SignUpPage() {
+//   return (
+//     <Container maxWidth="sm">
+//       <SignUpForm />
+//     </Container>
+//   )
+// }
 
-export default SignUpPage
+// export default SignUpPage
