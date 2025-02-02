@@ -91,13 +91,13 @@ function PropertyDetails() {
         <Typography variant="h4" component="h1">
           {property.title}
         </Typography>
-        {/* <IconButton
+        <IconButton
           onClick={handleFavoriteClick}
           color="primary"
           aria-label={isFavorite ? 'Remove from favorites' : 'Add to favorites'}
         >
           {isFavorite ? <FavoriteIcon /> : <FavoriteBorderIcon />}
-        </IconButton> */}
+        </IconButton>
       </Box>
 
       <Paper elevation={3} sx={{ mb: 3 }}>
